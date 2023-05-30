@@ -1,5 +1,5 @@
 ---
-bloooog: Welcome to my blog. This is the best blog in the world. I have seen many blogs but there is no blog than my blog... 
+title: Welcome to my blog. This is the best blog in the world. I have seen many blogs but there is no blog than my blog... 
 ---
 
 
